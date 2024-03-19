@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hidm30pia1530smw?svg=true)](https://ci.appveyor.com/project/Nut0chka/patterns-homework1-2)
